@@ -32,5 +32,5 @@
 *.app
 
 # ignore cmake-build-debug
-./cmake-build-debug/**
-./cmake-build-release/**
+cmake-build-debug/
+cmake-build-release/
